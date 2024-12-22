@@ -1,4 +1,4 @@
-# SYS3 Sortainer SYS3 Drawer Gridfinity Baseplates
+# Sortainer SYS3 Drawer Gridfinity Baseplates
 
 Remix of [Asotrot's
 baseplates](https://makerworld.com/en/models/832744?from=search#profileId-777400)

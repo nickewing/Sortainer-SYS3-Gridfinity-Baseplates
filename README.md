@@ -12,8 +12,8 @@ gridfinity modules when the drawers are opened and closed or when the whole
 container is transported.
 
 Both versions of the baseplate should be compatible with Festool Sortainer³
-SYS3-SORT/3 M 337, Sortainer³ SYS3-SORT/2 M 337, and the TANOS-branded versions
-of the same products.
+SYS3-SORT/3 M 337 and shallow drawer of the Sortainer³ SYS3-SORT/2 M 337. Also
+compatible TANOS-branded versions of the same products.
 
 These models are likely NOT compatible with other Sortainer versions.  Please
 check for other models for previous Sortainer versions.
